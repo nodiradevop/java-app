@@ -1,3 +1,3 @@
-#####build the project
-
-####gradle build
+# build the project
+```
+gradle build
